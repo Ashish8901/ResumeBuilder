@@ -1,0 +1,1174 @@
+img.resume-profile-img.dummy-box-img {
+    object-fit: contain;
+}
+.temp-4-pd .parent-col:nth-child(3).fade-bg:after,
+.temp-4-pd .parent-col:nth-child(1) .fade-bg:after {
+  display: none;
+}
+.resume-table {
+  position: relative;
+  /* overflow: hidden; */
+}
+.final-resume-box .temp-4-pd #myeditablediv .signature-col {
+    width: 64%;
+    margin-left: 36%;
+}
+.styleTempOne .parent-col:nth-of-type(2) {
+    padding-top: 25px !important;
+}
+.final-resume-box .resume-template-box.temp-3 .parent-col:nth-of-type(2) {
+  padding-bottom: 100px;
+}
+.styleTempDBSix h1.name-title,
+.styleTempOne h1.name-title,
+.styleTempThree h1.name-title,
+.styleTempFive h1.name-title {
+  color: inherit !important;
+}
+.temp-4-pd .parent-left {
+  padding-right: 0px !important;
+}
+.template-section .resume-zoom .dummy-img,
+.resume-preview .resume-zoom .dummy-img {
+  height: 80px !important;
+  width: 80px !important;
+}
+.temp-4-pd .parent-col.pt-4.fade-bg:nth-child(3) {
+  background: #fff !important;
+  color: #000 !important;
+}
+.parent-right .name-title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  font-weight: 500 !important;
+}
+.temp-4 .profile-pic .mt-2 {
+  display: none;
+}
+.temp-4-pd .parent-col:nth-of-type(2),
+.temp-4-pd .parent-col:nth-of-type(3) {
+  min-height: 100%;
+}
+.temp-4-pd .parent-col:nth-of-type(2).fade-bg *,
+.temp-4-pd .parent-col:nth-of-type(3).fade-bg * {
+  z-index: 2 !important;
+  position: relative;
+}
+.resume-template-box,
+.resume-content-box {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.resume-preview .resume-zoom .preview-inner {
+  height: 100% !important;
+}
+.resume-table.pb-5 {
+  height: 100%;
+  padding-bottom: 0px !important;
+}
+.percent-box,
+.percent {
+  width: 80%;
+}
+.styleTempOne .percent-box,
+.styleTempOne .percent,
+.styleTempTwo .percent-box,
+.styleTempTwo .percent,
+.styleTempThree .percent-box,
+.styleTempThree .percent,
+.styleTempFour .percent-box,
+.styleTempFour .percent,
+.styleTempFive .percent-box,
+.styleTempFive .percent {
+  width: 50%;
+}
+.template-grid .styleTempThree .mb-3.name-bg {
+  margin-bottom: 8px !important;
+}
+.percent-clr {
+  width: 17% !important;
+}
+.template-grid .percent-clr {
+  height: 3px;
+}
+.template-grid .resume-heading {
+  font-size: 8px;
+}
+.template-grid .profile-img-box {
+  margin-right: 0px;
+}
+.template-grid h1.name-title {
+  font-size: 16px !important;
+}
+.template-grid .resume-preview-box .resume-temp {
+  padding: 0px;
+}
+.template-grid .styleTempFour .resume-heading,
+.template-grid .styleTempTwo .resume-heading {
+  padding: 3px;
+  font-size: 8px;
+}
+.styleTempOne .resume-heading,
+.styleTempFive .resume-heading,
+.styleTempThree .resume-heading,
+.styleTempDBTwelve .resume-heading {
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+.template-grid .styleTempOne .resume-heading,
+.template-grid .styleTempFive .resume-heading,
+.template-grid .styleTempThree .resume-heading,
+.template-grid .styleTempDBTwelve .resume-heading {
+  padding-bottom: 3px;
+  border-bottom: 1px solid #ccc;
+}
+.styleTempOne .resume-section .paragraph,
+.styleTempOne .resume-section .paragraph1,
+.styleTempThree .resume-section .paragraph,
+.styleTempThree .resume-section .paragraph1 {
+  padding-left: 70px;
+}
+.styleTempFour .resume-section .paragraph,
+.styleTempFour .resume-section .paragraph1,
+.styleTempFive .resume-section .paragraph,
+.styleTempFive .resume-section .paragraph1 {
+  padding-left: 50px;
+}
+.template-grid .styleTempOne .opacit-1,
+.template-grid .styleTempThree .opacit-1 {
+  gap: 10px;
+}
+.template-grid .styleTempTwo div#socialInfo {
+  margin-bottom: 3px;
+  padding-bottom: 0px;
+}
+.template-grid .styleTempFour .profile-content {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.styleTempFour .profile-content {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.template-grid .profile-img-box .mt-2 {
+  display: none;
+}
+/* template grid css end */
+.resume-template-box .upload-photo-btn {
+  display: none !important;
+}
+.resume-preview .percent-clr {
+  width: 17% !important;
+}
+.parent-col:last-child {
+  padding-bottom: 100px;
+}
+.choose-template-section.template-section .col-lg-4.mb-3 {
+  padding: 3px 11px;
+}
+.template-section .resume-preview-box .resume-temp .resume-template-box {
+  height: 520px;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+.mb-3.styled-bg {
+  margin-bottom: 0px !important;
+}
+.choose-template-section .styleTempOne .top-fix-box,
+.choose-template-section .styleTempTwo .top-fix-box,
+.choose-template-section .styleTempThree .top-fix-box,
+.choose-template-section .styleTempFour .top-fix-box {
+  background: transparent !important;
+  color: initial !important;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+  padding-top: 15px !important;
+}
+.template-section .styleTempThree .top-fix-box,
+.styleTempThree .slide-bg-clr.top-fix-box {
+  padding: 0px !important;
+}
+.template-grid .styleTempThree .contact-info-box {
+  padding-left: 15px !important;
+}
+.styleTempThree .profile-img-box {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+.styleTempThree .profile-img-box .mt-2 {
+  display: none;
+}
+.styleTempThree h1.name-title {
+  margin: 5px 0px;
+}
+.choose-template-section .styleTempTwo .resume-social-info .resume-icon {
+  display: none;
+}
+.template-section .extra-icons-social {
+  display: none;
+}
+.styled-bg {
+  display: none;
+}
+.template-section .profile-img-box .upload-photo-btn {
+  display: none !important;
+}
+.border-bg {
+  display: none;
+  padding: 1.5px;
+}
+.styleTempOne,
+.styleTempTwo,
+.styleTempThree,
+.styleTempFour {
+  background: #fff;
+}
+
+.styleTempOne .language-box,
+.styleTempTwo .language-box,
+.styleTempFour .language-box,
+.styleTempThree .language-box,
+.styleTempFive .language-box {
+  width: 100%;
+}
+
+.styleTempOne .styled-bg,
+.styleTempTwo .border-bg,
+.styleTempFour .border-bg {
+  display: block;
+  padding: 1px;
+  margin-bottom: 1px !important;
+}
+.template-grid .styleTempOne .styled-bg,
+.template-grid .styleTempTwo .border-bg,
+.template-grid .styleTempFour .border-bg {
+  padding: 0.7px;
+}
+.styleTempOne .top-fix-box,
+.styleTempTwo .top-fix-box,
+.styleTempThree .top-fix-box,
+.styleTempFour .top-fix-box {
+  background: transparent !important;
+  color: initial !important;
+  padding: 0px 0px;
+}
+.styleTempOne .resume-heading,
+.styleTempTwo .resume-heading {
+  color: initial !important;
+}
+.styleTempOne .top-fix-box .resume-heading,
+.styleTempTwo .top-fix-box .resume-heading {
+  display: none;
+}
+.styleTempOne .opacit-1,
+.styleTempThree .opacit-1 {
+  display: flex;
+  gap: 15px;
+}
+.styleTempThree .opacit-1 {
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+.styleTempThree .contact-info-box {
+  padding-left: 20px;
+}
+.final-resume-box .styleTempThree .contact-info-box {
+  padding-left: 25px;
+}
+.styleTempThree .profile-img-box {
+  margin-right: 20px;
+}
+/* .styleTempTwo .skill-list.resume-skill,
+.styleTempFour .skill-list.resume-skill {
+  padding-top: 15px !important;
+} */
+.final-resume-box .styleTempTwo .parent-col:nth-of-type(2),
+.final-resume-box .styleTempFour .parent-col:nth-of-type(2) {
+  padding-top: 20px !important;
+}
+/* style temp one */
+.final-resume-box .styleTempOne .styled-bg {
+  padding: 20px !important;
+}
+.styleTempOne .profile-img-box {
+  display: block !important;
+  margin-right: 15px;
+}
+.styleTempOne .top-fix-box {
+  padding: 0px 15px;
+}
+.styleTempOne .name-title {
+  font-size: 2rem;
+  font-weight: 600 !important;
+}
+
+.styleTempOne .profile-img-box span.btn.site-btn {
+  display: none !important;
+}
+/* style temp two */
+.styleTempTwo div#socialInfo {
+  text-align: right;
+  padding-right: 20px;
+}
+.styleTempTwo .resume-icon {
+  display: none;
+}
+.styleTempTwo div#socialInfo {
+  text-align: right;
+  padding-right: 0px;
+  line-height: 1.1;
+  padding-bottom: 0px;
+}
+.styleTempTwo .resume-section ul {
+  padding-left: 30px;
+}
+.final-resume-box .styleTempTwo .parent-col:nth-of-type(1) {
+  padding: 10px !important;
+}
+.final-resume-box .styleTempFour .parent-col:nth-of-type(1) {
+  padding: 7px !important;
+}
+.final-resume-box .styleTempTwo .border-bg,
+.final-resume-box .styleTempFour .border-bg {
+  padding: 1.5px;
+  margin-bottom: 3px !important;
+}
+/* style temp three */
+.styleTempThree .profile-img-box {
+  display: block !important;
+}
+.styleTempThree .name-bg {
+  display: block !important;
+  text-align: right;
+}
+.styleTempThree .top-fix-box h1.name-title,
+.styleTempThree .top-fix-box h1.resume-heading {
+  display: none;
+}
+.styleTempFour .border-bg {
+  display: block !important;
+}
+/* style temp Four */
+.styleTempFour .name-title {
+  text-align: center;
+}
+.styleTempFour .top-fix-box .resume-heading {
+  display: none;
+}
+.profile-content .profile-img-box {
+  display: none !important;
+}
+.template-grid .styleTempFour .profile-content .profile-img-box {
+  margin-right: 10px;
+}
+.styleTempFour .profile-content .profile-img-box {
+  display: block !important;
+  margin-right: 15px;
+}
+.styleTempFour .profile-content {
+  display: flex;
+  padding-bottom: 10px;
+}
+.styleTempFour .profile-content .resume-social-info {
+  margin-top: 0px;
+}
+.styleTempFour .resume-heading,
+.styleTempTwo .resume-heading {
+  background: #abadaf;
+  padding: 5px;
+  color: #fff !important;
+  font-weight: 400 !important;
+}
+/* style temp five */
+.final-resume-box .styleTempFive .parent-col:nth-of-type(2) {
+  padding-top: 20px !important;
+}
+.styleTempFive .slide-bg-clr.top-fix-box {
+  padding: 25px;
+}
+.styleTempFive .profile-img-box {
+  margin-right: 5px !important;
+}
+.final-resume-box .styleTempFive .profile-img-box {
+  margin-right: 0px !important;
+}
+.styleTempFive div#socialInfo span.resume-icon {
+  display: none;
+}
+.styleTempFive div#socialInfo p {
+  padding-left: 0px;
+}
+.styleTempFive .profile-content .profile-img-box {
+  display: block !important;
+}
+.styleTempFive .profile-content {
+  display: flex;
+}
+.styleTempFive .profile-content {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+.template-grid .styleTempFive .profile-content {
+  gap: 10px;
+}
+.styleTempFive .profile-content {
+  gap: 15px;
+}
+.styleTempFive .profile-content .resume-social-info .resume-heading {
+  display: none;
+}
+.styleTempFive h1.name-title {
+  display: none;
+}
+.styleTempFive .profile-content .info-name,
+.styleTempFive .profile-content .name-title {
+  display: block !important;
+}
+.template-grid .styleTempFive .profile-img-box {
+  margin-right: 3px;
+}
+.styleTempFive .top-fix-box {
+  margin-bottom: 10px;
+}
+/* style temp Six */
+.styleTempDBSix .temp-4-pd .parent-col:nth-child(1).fade-bg:after {
+  display: none;
+}
+.final-resume-box .styleTempDBSix .parent-right .name-title {
+  position: relative;
+  top: 20px;
+  font-size: calc(28px + 1.5vw) !important;
+}
+.final-resume-box .styleTempDBSix .parent-right {
+  padding-top: 15px;
+  /* padding-left: 0px !important; */
+}
+.styleTempDBSix .border-bg {
+  display: block;
+}
+.styleTempDBSix .top-section {
+  padding: 0px !important;
+}
+.styleTempDBSix .parent-col:nth-of-type(2) {
+  width: 34% !important;
+}
+.styleTempDBSix .parent-col:nth-of-type(3) {
+  width: 66%;
+  padding-top: 20px !important;
+}
+.styleTempDBSix .profile-pic .mt-2 {
+  display: none;
+}
+.styleTempDBSix .resume-content-box .parent-col:nth-of-type(2),
+.styleTempDBSix .resume-content-box .parent-col:nth-of-type(3) {
+  margin-top: 0px;
+  min-height: 100%;
+}
+.final-resume-box
+  .styleTempDBSix
+  .resume-content-box
+  .parent-col:nth-of-type(2),
+.final-resume-box
+  .styleTempDBSix
+  .resume-content-box
+  .parent-col:nth-of-type(3) {
+  min-height: 800px;
+  height: 100%;
+}
+
+.styleTempDBSix .resume-content-box .parent-col:nth-of-type(2) {
+  background-color: #f3f3f3;
+  padding-top: 50px !important;
+}
+.final-resume-box .styleTempDBSix .parent-col:nth-of-type(1) {
+  margin-bottom: 16px;
+}
+.styleTempDBSix .parent-col:nth-of-type(1) {
+  margin-bottom: -4px;
+}
+.styleTempDBSix .parent-col:nth-of-type(1) .parent-left .profile-pic {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 40px;
+}
+.final-resume-box
+  .styleTempDBSix
+  .parent-col:nth-of-type(1)
+  .parent-left
+  .profile-pic {
+  top: 80px;
+}
+.final-resume-box .styleTempDBSix .parent-col:nth-of-type(3) {
+  padding-top: 35px !important;
+}
+.styleTempDBSix .parent-col:nth-of-type(1) .parent-right {
+  padding-left: 15px;
+}
+.template-grid
+  .styleTempDBSix
+  .parent-col:nth-of-type(1)
+  .parent-right
+  .name-title,
+.resume-zoom .styleTempDBSix .parent-right .name-title {
+  padding-top: 15px;
+  margin-bottom: 15px;
+  font-size: 30px !important;
+  font-weight: 500 !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.final-resume-box .styleTempDBSix .parent-col:nth-of-type(1) .parent-right {
+  padding-top: 20px;
+}
+.final-resume-box
+  .styleTempDBSix
+  .resume-content-box
+  .parent-col:nth-of-type(2) {
+  padding-top: 80px !important;
+}
+.styleTempDBSix .parent-col:nth-of-type(1) .parent-right .after-devider,
+.styleTempDBTwelve .parent-col:nth-of-type(1) .parent-right .after-devider {
+  display: none;
+}
+.styleTempDBSix .resume-table.pb-5 {
+  height: 100%;
+  padding-bottom: 0px !important;
+}
+.final-resume-box .styleTempDBSix .parent-col:nth-of-type(1) .border-bg {
+  position: relative;
+  top: 20px;
+  padding: 3px;
+}
+.styleTempDBSix .top-section.parent-container .parent-left {
+  width: 34%;
+}
+/* style Temp Seven */
+.styleTempDBSeven .top-section,
+.styleTempDBEight .top-section,
+.styleTempDBNine .top-section,
+.styleTempDBTen .top-section,
+.styleTempDBEleven .top-section {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+.styleTempDBSix .parent-col:nth-child(2).fade-bg *,
+.styleTempDBSix .parent-col:nth-child(3).fade-bg *,
+.styleTempDBEight .parent-col:nth-child(2).fade-bg *,
+.styleTempDBEight .parent-col:nth-child(3).fade-bg *,
+.styleTempDBTen .parent-col:nth-child(3).fade-bg *,
+.styleTempDBTen .parent-col:nth-child(2).fade-bg *,
+.styleTempDBEleven .parent-col:nth-child(2).fade-bg *,
+.styleTempDBEleven .parent-col:nth-child(3).fade-bg *,
+.styleTempDBTwelve .parent-col:nth-child(2).fade-bg *,
+.styleTempDBTwelve .parent-col:nth-child(3).fade-bg * {
+  color: #000;
+}
+.styleTempDBSeven .parent-col.fade-bg:after,
+.styleTempDBNine .parent-col.fade-bg:after {
+  display: none;
+}
+.styleTempDBSeven .parent-col.fade-bg h1.resume-heading,
+.styleTempDBNine .parent-col.fade-bg h1.resume-heading {
+  color: #fff !important;
+}
+.template-grid .styleTempDBSeven .dummy-img,
+.resume-preview .styleTempDBSeven .dummy-img,
+.resume-preview .styleTempDBNine .dummy-img {
+  height: 90px !important;
+  width: 90px !important;
+  position: relative;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.resume-preview .styleTempDBNine .dummy-img {
+  border-radius: 0%;
+}
+.styleTempDBSeven .dummy-img {
+  height: 180px !important;
+  width: 180px !important;
+  border-radius: 50%;
+}
+.styleTempDBSeven .dummy-img .resume-profile-img {
+  border-radius: 50%;
+}
+.styleTempDBSeven .dummy-img-box {
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 10px);
+  top: 5px;
+}
+.styleTempDBSeven .resume-profile-img {
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;
+}
+.styleTempDBSeven .parent-col:nth-of-type(2),
+.styleTempDBNine .parent-col:nth-of-type(2) {
+  padding-right: 15px;
+  border-left: none;
+  padding-top: 80px !important;
+}
+.styleTempDBSeven .top-section .parent-right,
+.styleTempDBEight .top-section .parent-right,
+.styleTempDBTen .top-section .parent-right,
+.styleTempDBEleven .top-section .parent-right {
+  background: #fff;
+  color: #000;
+  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  width: 66%;
+}
+.styleTempDBSeven .after-devider,
+.styleTempDBTen .after-devider,
+.styleTempDBEleven .after-devider {
+  height: 2px;
+  width: 100%;
+}
+.template-grid .styleTempDBSeven .after-devider,
+.template-grid .styleTempDBTen .after-devider,
+.template-grid .styleTempDBEleven .after-devider {
+  height: 1px;
+}
+.template-section .styleTempDBSeven .parent-container,
+.styleTempDBSeven .resume-preview .resume-zoom .parent-container {
+  padding-left: 0px;
+  padding-right: 0;
+}
+.styleTempDBSeven .top-bg-clr,
+.styleTempDBEight .top-bg-clr,
+.styleTempDBNine .top-bg-clr,
+.styleTempDBTen .top-bg-clr,
+.styleTempDBEleven .top-bg-clr,
+.final-resume-box .styleTempDBNine .parent-col:nth-child(1) {
+  background: #fff !important;
+}
+.final-resume-box .styleTempDBSeven .parent-col:nth-of-type(2) {
+  padding-top: 150px !important;
+}
+/* temp style eight */
+.final-resume-box .styleTempDBEight .dummy-img {
+  height: 230px !important;
+}
+.styleTempDBEight .parent-left.parent-left-bg {
+  background: transparent !important;
+}
+.styleTempDBEight .dummy-img-box {
+  position: absolute;
+  width: 100%;
+}
+/* .styleTempDBEight .dummy-img-box .addNew {
+  width: 100%;
+  height: 105px;
+} */
+.styleTempDBEight .dummy-img-box .addNew {
+  width: 100% !important;
+}
+.final-resume-box .styleTempDBEight .resume-profile-img {
+  height: 100% !important;
+  width: 100% !important;
+}
+.resume-preview .resume-zoom .styleTempDBEight .dummy-img,
+.template-section .styleTempDBEight .dummy-img {
+  height: 130px !important;
+}
+.template-section .styleTempDBEight .dummy-img,
+.resume-preview .styleTempDBEight .dummy-img,
+.final-resume-box .styleTempDBEight .dummy-img,
+.final-resume-box .styleTempDBEight .resume-profile-img {
+  width: 100% !important;
+}
+.resume-preview .styleTempDBEight .parent-col:nth-of-type(2),
+.styleTempDBEight .parent-col:nth-of-type(2) {
+  padding-top: 100px !important;
+}
+.final-resume-box .styleTempDBEight .parent-col:nth-of-type(2) {
+  padding-top: 160px !important;
+}
+.styleTempDBEight .parent-left {
+  padding-right: 0px;
+}
+.template-grid .styleTempDBEight h1.name-title,
+.template-grid .styleTempDBTen h1.name-title,
+.template-grid .styleTempDBEleven h1.name-title {
+  font-size: 20px !important;
+}
+
+/* temp style Nine */
+.styleTempDBNine .dummy-img-box {
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 10px);
+  top: 5px;
+}
+.final-resume-box .styleTempDBNine .dummy-img-box {
+  left: 55%;
+}
+.template-section .styleTempDBNine .dummy-img {
+  height: 90px !important;
+  width: 103px !important;
+}
+.resume-preview .styleTempDBNine .dummy-img {
+  height: 90px !important;
+  width: 110px !important;
+}
+.final-resume-box .styleTempDBNine .dummy-img {
+  width: 100% !important;
+}
+.styleTempDBNine .parent-col:nth-of-type(1) .parent-right .name-title {
+  font-weight: 500 !important;
+  color: #000 !important;
+  padding-top: 15px;
+}
+.template-grid
+  .styleTempDBNine
+  .parent-col:nth-of-type(1)
+  .parent-right
+  .name-title,
+.resume-zoom
+  .styleTempDBNine
+  .parent-col:nth-of-type(1)
+  .parent-right
+  .name-title {
+  font-size: 30px !important;
+}
+
+.styleTempDBNine .after-devider,
+.styleTempDBEight .after-devider {
+  display: none;
+}
+.final-resume-box .styleTempDBNine .dummy-img-box,
+.final-resume-box .styleTempDBNine .dummy-img {
+  border-radius: 0px !important;
+  width: 90%;
+}
+.styleTempDBNine .temp-4-pd .parent-col:nth-of-type(3) {
+  padding-top: 10px !important;
+}
+.final-resume-box .styleTempDBNine .parent-col:nth-of-type(2) {
+  padding-top: 150px !important;
+}
+.temp-4-pd .parent-col.pt-4.fade-bg:nth-child(3) h1.resume-heading {
+  color: #000 !important;
+}
+.styleTempDBNine .top-section .parent-right {
+  width: 66%;
+}
+.final-resume-box .temp-4-pd .parent-col:nth-of-type(3),
+.final-resume-box .temp-4-pd .parent-col:nth-of-type(2) {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.final-resume-box .parent-col:nth-of-type(1) .parent-right {
+  /* font-size: 40px !important; */
+  padding: 25px;
+  padding-bottom: 15px;
+  width: 66%;
+}
+.styleTempDBNine .dummy-img {
+  height: 180px !important;
+  width: 180px !important;
+}
+.styleTempDBNine .resume-profile-img {
+  height: 100% !important;
+  width: 100% !important;
+  object-fit: contain;
+}
+.final-resume-box .styleTempDBNine .addNew {
+  width: 90%;
+}
+.final-resume-box .styleTempDBNine .temp-4-pd .parent-left {
+  padding-right: 0px !important;
+  padding-top: 15px;
+}
+/* style temp ten */
+.styleTempDBEight .dummy-img-box {
+  position: absolute;
+  width: 100%;
+}
+/* .styleTempDBEight .dummy-img-box .addNew {
+  width: 100%;
+  height: 105px;
+} */
+.styleTempDBTen .dummy-img,
+.styleTempDBEleven .dummy-img,
+.styleTempDBTen .dummy-img-box .addNew,
+.styleTempDBEleven .dummy-img-box .addNew,
+.template-section .styleTempDBTen .dummy-img,
+.template-section .styleTempDBEleven .dummy-img,
+.resume-preview .styleTempDBTen .dummy-img,
+.resume-preview .styleTempDBEleven .dummy-img {
+  width: 100% !important;
+}
+/* .styleTempDBTen .resume-profile-img,
+.template-section .styleTempDBTen .dummy-img {
+  height: 90px !important;
+} */
+.resume-preview .styleTempDBTen .dummy-img,
+.resume-preview .styleTempDBEleven .dummy-img {
+  height: 100px !important;
+}
+.final-resume-box .styleTempDBTen .resume-profile-img,
+.final-resume-box .styleTempDBEleven .resume-profile-img {
+  height: 100% !important;
+  width: 100%;
+}
+.styleTempDBTen .temp-4-pd .parent-left {
+  padding-right: 0px !important;
+  padding: 14px !important;
+}
+.final-resume-box .styleTempDBTen .temp-4-pd .parent-left,
+.final-resume-box .styleTempDBEleven .temp-4-pd .parent-left {
+  padding: 30px !important;
+}
+.styleTempDBTen .parent-left-bg,
+.styleTempDBEleven .parent-left-bg {
+  position: absolute;
+  z-index: 2;
+}
+.styleTempDBTen .temp-4-pd .parent-col:nth-of-type(1) .parent-right,
+.styleTempDBEleven .temp-4-pd .parent-col:nth-of-type(1) .parent-right {
+  width: 100%;
+  padding-left: 34%;
+}
+.styleTempDBTen .temp-4-pd .parent-col:nth-of-type(1) .parent-right .opacit-1 {
+  padding-left: 15px;
+}
+.final-resume-box
+  .styleTempDBTen
+  .temp-4-pd
+  .parent-col:nth-of-type(1)
+  .parent-right
+  .opacit-1 {
+  padding-left: 25px;
+}
+.styleTempDBTen h1.name-title {
+  color: #000 !important;
+}
+.styleTempDBTen .temp-4-pd .parent-col:nth-of-type(2) {
+  padding-top: 90px !important;
+}
+.final-resume-box .styleTempDBTen .temp-4-pd .parent-col:nth-of-type(2) {
+  padding-top: 170px !important;
+}
+/* style temp eleven */
+.final-resume-box .styleTempDBEleven .postition-bg-style.fade-bg:after {
+  z-index: 0 !important;
+}
+.final-resume-box .styleTempDBEleven .resume-table.pb-5 {
+  overflow: hidden;
+}
+.styleTempDBEleven .parent-left-bg {
+  background: transparent !important;
+}
+.styleTempDBEleven .parent-col:nth-of-type(2),
+.styleTempDBTwelve .parent-col:nth-of-type(2) {
+  background: transparent !important;
+}
+.styleTempDBEleven .parent-col:nth-of-type(2):after,
+.styleTempDBTwelve .parent-col:nth-of-type(2):after {
+  display: none;
+}
+.styleTempDBEleven .postition-bg-style.fade-bg {
+  display: block !important;
+  padding: inherit;
+  position: absolute;
+  z-index: 1;
+  height: 200px;
+  width: 230px;
+  border-radius: 50%;
+  top: -50px;
+  left: -50px;
+}
+.styleTempDBEleven .temp-4-pd .parent-left {
+  padding-right: 0px !important;
+  padding: 25px !important;
+}
+.styleTempDBEleven .temp-4-pd .parent-col:nth-of-type(2) {
+  padding-top: 85px !important;
+}
+.template-grid .styleTempDBEleven .temp-4-pd .parent-col:nth-of-type(2) {
+  padding-top: 65px !important;
+}
+.styleTempDBEleven .after-devider {
+  display: none;
+}
+.styleTempDBEleven .resume-heading {
+  border-top: 1px solid #ccc;
+  padding-top: 6px !important;
+  margin-top: 5px;
+}
+.template-grid .styleTempDBEleven .resume-heading {
+  padding-top: 3px;
+}
+.styleTempDBEleven .temp-4-pd .parent-col.pt-4.fade-bg:nth-child(3) {
+  background: transparent !important;
+}
+.final-resume-box .styleTempDBEleven .temp-4-pd .parent-col:nth-child(3) {
+  z-index: 3;
+}
+.styleTempDBEleven
+  .temp-4-pd
+  .parent-col:nth-of-type(1)
+  .parent-right
+  .opacit-1 {
+  padding-left: 15px !important;
+}
+.final-resume-box .styleTempDBEleven .postition-bg-style.fade-bg {
+  height: 380px;
+  width: 50%;
+  top: -60px;
+  left: -60px;
+  z-index: 2;
+}
+.postition-bg-style.fade-bg:after {
+  border-radius: 47%;
+}
+/* .final-resume-box .styleTempDBEleven .dummy-img-box {
+  width: 80% !important;
+  padding-left: 20px;
+} */
+.styleTempDBEleven .parent-col:nth-child(3).fade-bg:after {
+  display: none;
+}
+.styleTempDBEleven .temp-4-pd .parent-col:nth-of-type(3),
+.styleTempDBEleven
+  .temp-4-pd
+  .parent-col:nth-of-type(1)
+  .parent-right
+  .opacit-1 {
+  padding-left: 5px;
+}
+.final-resume-box .styleTempDBEleven .temp-4-pd .parent-col:nth-child(3) {
+  padding-left: 15px;
+}
+
+.final-resume-box .styleTempDBEleven .temp-4-pd .parent-col:nth-of-type(2) {
+  padding-top: 130px !important;
+}
+.final-resume-box .styleTempDBEleven .resume-heading {
+  border-top: 2px solid #ccc;
+  padding-top: 15px !important;
+}
+.styleTempDBEleven .parent-col:nth-child(3) {
+  position: relative;
+  z-index: 1;
+  padding-top: 0px !important;
+}
+/* style temp twelve */
+.styleTempDBTwelve .temp-4-pd .parent-col:nth-child(1).fade-bg:after,
+.styleTempDBTwelve .temp-4-pd .parent-col:nth-child(1) .fade-bg:after {
+  display: block;
+}
+.styleTempDBTwelve .profile-pic .addNew .dummy-img {
+  width: 60px !important;
+  overflow: hidden;
+  height: 60px !important;
+}
+.styleTempDBTwelve .profile-pic .dummy-img-box {
+  padding-left: 25px;
+}
+.template-grid
+  .styleTempDBTwelve
+  .parent-col:nth-of-type(1)
+  .parent-right
+  .name-title {
+  font-size: 30px !important;
+  font-weight: 500 !important;
+}
+.styleTempDBTwelve .top-section.parent-container {
+  padding: 12px 0px !important;
+  padding-bottom: 10px !important;
+}
+.styleTempDBTwelve .temp-4-pd .parent-col:nth-of-type(2),
+.styleTempDBTwelve .temp-4-pd .parent-col:nth-of-type(3) {
+  padding-top: 25px !important;
+}
+.styleTempDBTwelve .parent-left.parent-left-bg {
+  background: transparent !important;
+}
+.final-resume-box .styleTempDBTwelve .profile-pic .addNew .dummy-img {
+  width: 135px !important;
+  height: 135px !important;
+}
+.styleTempDBTwelve .addNew {
+  overflow: hidden;
+}
+.final-resume-box .styleTempDBTwelve .parent-col:nth-of-type(1) .parent-right {
+  padding-top: 5px;
+  padding-bottom: 0px;
+}
+.final-resume-box .styleTempDBTwelve .top-section.parent-container {
+  padding: 22px 0px !important;
+  padding-bottom: 20px !important;
+}
+@media print {
+  .bg-light,
+  body {
+    background-color: white !important;
+  }
+  * {
+    page-break-before: avoid; /* Prevent page break before the element */
+    page-break-after: avoid; /* Prevent page break after the element */
+    page-break-inside: avoid; /* Prevent page break within the element */
+  }
+  body {
+    display: flex;
+    align-items: stretch;
+    min-height: 100vh;
+    margin: 0;
+  }
+  .temp-4-pd .resume-content-box .parent-col:nth-of-type(2),
+  .temp-4-pd .resume-content-box .parent-col:nth-of-type(3),
+  .temp-4-pd .resume-content-box {
+    margin-top: 0px;
+    height: 100%;
+    min-height: 95vh;
+    align-items: stretch;
+  }
+  .styleTempOne .slide-bg-clr.top-fix-box {
+    margin-top: 10px;
+  }
+  .styleTempDBSix h1.name-title {
+    margin-top: 30px;
+  }
+  body .styleTempDBSix .dummy-img {
+    height: 500px;
+    width: 500px;
+  }
+  .dummy-img img {
+    height: 100% !important;
+    width: 100% !important;
+  }
+  body .styleTempDBTen .temp-4-pd .parent-col:nth-of-type(2) {
+    padding-top: 200px !important;
+  }
+  body .parent-col:nth-of-type(2),
+  body .parent-col:nth-of-type(3),
+  .parent-col:nth-of-type(1) .parent-right .opacit-1 {
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+  }
+  body img.resume-profile-img {
+    object-fit: cover !important;
+    object-position: top center !important;
+  }
+  body .styleTempDBEleven .postition-bg-style.fade-bg {
+    height: 400px !important;
+    width: 600px !important;
+    top: -100px;
+    left: -100px;
+    z-index: 2;
+  }
+  body .styleTempDBEleven .temp-4-pd .parent-col:nth-of-type(3) {
+    z-index: 3;
+  }
+  body .styleTempDBEleven .temp-4-pd .parent-col:nth-of-type(2) {
+    padding-top: 150px !important;
+  }
+  body .styleTempDBSeven .dummy-img {
+    height: 230px !important;
+    width: 230px !important;
+  }
+  body .styleTempDBSeven .temp-4-pd .parent-col:nth-of-type(2) {
+    padding-top: 200px !important;
+  }
+  body .styleTempDBSeven .temp-4-pd .parent-col:nth-of-type(3) {
+    padding-top: 30px !important;
+  }
+  body .styleTempDBSeven .parent-col:nth-of-type(1) .parent-right {
+    padding-left: 0px !important;
+  }
+  body .styleTempDBTen .temp-4-pd .parent-left,
+  body .styleTempDBEleven .temp-4-pd .parent-left {
+    padding: 40px !important;
+  }
+  body .styleTempDBEleven .dummy-img .parent-left {
+    padding-left: 0px;
+  }
+  body .styleTempDBTwelve .profile-pic .addNew .dummy-img {
+    width: 150px !important;
+    height: 150px !important;
+  }
+  body .styleTempDBTwelve .top-section.parent-container {
+    padding: 32px 0px !important;
+    padding-bottom: 30px !important;
+    padding-left: 10px !important;
+  }
+  body .styleTempDBSix .parent-right .name-title {
+    top: 15px;
+    font-size: calc(30px + 1.5vw) !important;
+  }
+  .styleTempThree .contact-info-box {
+    padding-left: 35px;
+  }
+  body .styleTempDBNine .parent-col:nth-child(1) {
+    background: #fff !important;
+  }
+  body .styleTempDBNine .dummy-img {
+    height: 250px !important;
+    width: 300px !important;
+  }
+  .styleTempDBNine .temp-4-pd .parent-left {
+    padding-top: 20px;
+  }
+  .styleTempDBNine .parent-col:nth-of-type(2) {
+    padding-top: 270px !important;
+  }
+  .resume-template-box.temp-3 .parent-col:nth-of-type(2) {
+    padding-bottom: 200px;
+  }
+  .styleTempOne .styled-bg {
+    padding: 20px !important;
+  }
+  body .styleTempOne .top-fix-box {
+    padding-top: 15px !important;
+  }
+  .styleTempTwo .parent-col:nth-of-type(1),
+  .styleTempFour .parent-col:nth-of-type(1) {
+    padding: 30px !important;
+  }
+  body .styleTempTwo .border-bg,
+  body .styleTempFour .border-bg {
+    padding: 1.5px;
+    margin-bottom: 4px !important;
+  }
+
+  .styleTempTwo .parent-col:nth-of-type(2),
+  .styleTempFour .parent-col:nth-of-type(2) {
+    padding-top: 20px !important;
+  }
+  body .styleTempFour .language-box {
+    margin-bottom: 40px !important;
+  }
+  .styleTempFive .slide-bg-clr.top-fix-box {
+    padding: 35px;
+  }
+  .styleTempFive .parent-col:nth-of-type(2) {
+    padding-top: 20px !important;
+  }
+ .styleTempDBEight .dummy-img {
+     height: 250px !important;
+    width: 352px !important;
+}
+.styleTempDBEight .parent-col:nth-of-type(2) {
+    padding-top: 220px !important;
+}
+body .temp-4-pd #myeditablediv .signature-col {
+    width: 64% !important;
+    margin-left: 36% !important;
+}
+}

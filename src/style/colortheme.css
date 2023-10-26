@@ -1,0 +1,32 @@
+:root {
+--yellow:#FFA500 !important;
+--green:#27616E !important;
+--blue: #27616E !important;
+--dark-green:#1a584b;
+--light-blue:#e9eefd;
+--navy-blue:#2027aa;
+--dark-blue: #3364FF;
+--primary-blue:#3364FF;
+--text-color:#222;
+--light-dark:#919191;
+--white:#fff;
+--light-grey:#ddd;
+--light-bg: #f6f8fa;
+--dark: #111 !important;
+--resume-text:#777;
+--resume-heading:#222;
+--heading-resume:#222;
+--resume-bg: #f5f5f5;
+/* resume color */
+--success-steel:#0e1012;
+--essential-ecru:#db7c11;
+--clever-blue:#0f355d;
+--quality-azure:#0187de;
+--delight-mint:#64a381;
+--standout-ruby:#690107;
+--savvy-salmon:#fe7a66;
+--optimistic-amber:#10657e !important;
+--root-color:#808d97;
+--light-grey:#d4d6d7;
+--default-template:#404040;
+}

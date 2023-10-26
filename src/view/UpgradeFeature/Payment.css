@@ -1,0 +1,110 @@
+.paymentContainer {
+    display: grid;
+    place-items: center;
+    background-color: rgb(255, 255, 255);
+    height: 65vh;
+    margin: 2vmax;
+  }
+  
+  .paymentForm {
+    width: 22%;
+    height: 100%;
+  }
+  
+  .paymentForm .des-text {
+    color: #000;
+    border-top: 1px solid rgba(0, 0, 0, 0.13);
+    padding: 1vmax 0;
+    text-align: center;
+    width: 50%;
+    margin-top: 20px;
+  }
+  
+  .paymentForm .flex-div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .paymentInput {
+    padding: 1vmax 4vmax;
+    padding-right: 1vmax;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.267);
+    border-radius: 4px;
+    outline: none;
+  }
+  
+  .paymentForm  .flex-div  svg,
+  .paymentForm  .flex-div .card-icon,
+     .paymentForm  .flex-div .key-icon {
+    position: absolute;
+    transform: translateX(1vmax);
+    font-size: 1.6vmax;
+    color: rgba(0, 0, 0, 0.623);
+  }
+.card-icon {
+    width: 22px;
+    top:33px
+}
+.key-icon {
+    margin-right: 5px;
+    width: 32px;
+    top: 32px;
+}
+  .pay-btn {
+    line-height: 0 !important;
+}
+  .paymentFormBtn {
+    border: none;
+    background-color: tomato;
+    color: white;
+    font: 300 0.9vmax ;
+    padding: 0.8vmax;
+    cursor: pointer;
+    transition: all 0.5s;
+    outline: none;
+  }
+  
+  .paymentFormBtn:hover {
+    background-color: rgb(179, 66, 46);
+  }
+  sub.text-sm {
+    font-size: 53%;
+}
+.text-sm {
+    font-size: 12px !important;
+}
+.text-xs {
+    font-size: 10px !important;
+}
+  @media screen and (max-width: 600px) {
+    .paymentForm {
+      width: 90%;
+    }
+  
+    .paymentForm > p {
+      padding: 4vw 0;
+      width: 60%;
+    }
+  
+    .paymentForm .flex-div {
+      margin-bottom: 10px;
+    }
+  
+    .paymentInput {
+      padding: 4vw 10vw;
+    }
+  
+    .paymentForm  .flex-div svg,
+     .paymentForm  .flex-div .card-icon,
+     .paymentForm  .flex-div .key-icon{
+      font-size: 6vw;
+    }
+  
+    .paymentFormBtn {
+      font: 300 4vw ;
+      padding: 4vw;
+    }
+  }
